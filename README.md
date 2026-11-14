@@ -20,7 +20,7 @@ This is an ungraded practice project for POLISCI 150A. Every observation is inve
 
 ## Start with your own copy
 
-1. On the TA's GitHub repository, click **Use this template → Create a new repository**.
+1. On the Mahda’s GitHub repository, click **Use this template → Create a new repository**.
 2. Select your own GitHub account as owner. Name the repository `section7-practice-YOURUSERNAME`. Choose **Private**.
 3. In your new repository, click **Code → HTTPS** and copy the URL.
 4. In RStudio, choose **File → New Project → Version Control → Git**, paste that URL, and create the project.
