@@ -29,7 +29,7 @@ This is an ungraded practice project for POLISCI 150A. Every observation is inve
 
 If R says `rmarkdown` is missing, run `install.packages("rmarkdown")` in the **R Console**. RStudio supplies Pandoc in its normal installation.
 
-Use your own repository for edits and pushes. You do not need write access to the TA's template.
+Use your own repository for edits and pushes. You do not need write access to the my template.
 
 ## Exercise 1: Edit, inspect, stage, commit, push
 
