@@ -24,7 +24,7 @@ This is an ungraded practice project for POLISCI 150A. Every observation is inve
 2. Select your own GitHub account as owner. Name the repository `section7-practice-YOURUSERNAME`. Choose **Private**.
 3. In your new repository, click **Code → HTTPS** and copy the URL.
 4. In RStudio, choose **File → New Project → Version Control → Git**, paste that URL, and create the project.
-5. Open Git History. A template copy starts with one initial commit; it does not inherit the TA template's earlier history.
+5. Open Git History. A template copy starts with one initial commit; it does not inherit my template's earlier history.
 6. Open `analysis.Rmd` and click **Knit** before editing it. The output is HTML, so this exercise does not require a LaTeX installation.
 
 If R says `rmarkdown` is missing, run `install.packages("rmarkdown")` in the **R Console**. RStudio supplies Pandoc in its normal installation.
